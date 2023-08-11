@@ -17,8 +17,4 @@
   </a>
   </a> 
   </a> 
-  </p>
   </div>
-  <p align="center">
-	<code><img height="25" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=enzoo27&repo=github-visitors-badge&countColorcountColor&countColor=%23000000"></code>&nbsp;
-</p>
