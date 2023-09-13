@@ -39,8 +39,7 @@
 
 <p align="center">
     <a href="https://discord.gg/HT7rQfszDK" target"blank_"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a> 
-    <a href="https://open.spotify.com/user/ashwingera124?si=4fa55f6150b64182" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-    <a href="https://twitter.com/zeytroxxx" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a href="https://open.spotify.com/user/jr5fl4xb12hipy8tny9oohiyw?si=a1c3e1c8f87d4baf" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
     <a href="https://github.com/enzoo27" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
