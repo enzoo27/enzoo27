@@ -35,7 +35,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
-![Proxmox](https://img.shields.io/badge/-Proxmox-000000?style=flat&logo=proxmoxt&logoColor=F05032)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
 <p align="center">
