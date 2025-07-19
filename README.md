@@ -3,10 +3,6 @@
 	~> If you see this don't forget to follow me before skid <3
 
 -->
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
-
-
-
 ### Hi there, I am Enzo 👋
 [![Gmail Badge](https://img.shields.io/badge/-pro@enzoit.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pro@enzoit.fr)](mailto:pro@enzoit.fr) 
 
